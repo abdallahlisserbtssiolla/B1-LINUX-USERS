@@ -23,6 +23,10 @@ chown :res /tmp/res
 chmod 770 /tmp/dev
 chmod 770 /tmp/res
 
+
+
+
+
 # Situation 2
 
 # Création des utilisateurs
